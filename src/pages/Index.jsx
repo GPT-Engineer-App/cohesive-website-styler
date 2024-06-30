@@ -1,13 +1,12 @@
-// Update this page (the content is just a fallback if you fail and example)
+import React from 'react';
 
 const Index = () => {
   return (
     <div className="h-screen w-screen flex items-center justify-center">
-      {/* Update with components here - default to put new layout sections as separate components in the components folder, and import them here */}
       <div>
-        <h1 className="text-3xl text-center">Your Blank Canvas</h1>
+        <h1 className="text-3xl text-center">Welcome to Our Business</h1>
         <p className="text-center">
-          Chat with the agent to start making edits.
+          Explore our services and products. Navigate using the menu above.
         </p>
       </div>
     </div>
